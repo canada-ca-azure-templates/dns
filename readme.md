@@ -348,10 +348,9 @@ The following security controls can be met through configuration of this templat
 
 ## History
 
-| Date     | Change                                                                                                                           |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 20181211 | Updating deploy.ps1 to support new Azure subscription and be more flexible by moving variables as parameter with default values. |
-| 20181214 | Implementing new template name as template.json                                                                                  |
-| 20190205 | Cleanup template folder                                                                                                          |
-| 20190430 | Updated documentation and cleanup parameters                                                                                     |
-| 20190501 | Updated documentation and add remaining type of DNS records                                                                      |
+| Date     | Release                                                                    | Change                                                                                                                           |
+| -------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 20181211 |                                                                            | Updating deploy.ps1 to support new Azure subscription and be more flexible by moving variables as parameter with default values. |
+| 20181214 |                                                                            | Implementing new template name as template.json                                                                                  |
+| 20190205 |                                                                            | Cleanup template folder                                                                                                          |
+| 20190501 | [20190501](https://github.com/canada-ca-azure-templates/dns/tree/20190501) | Updated documentation and add remaining type of DNS records                                                                      |
